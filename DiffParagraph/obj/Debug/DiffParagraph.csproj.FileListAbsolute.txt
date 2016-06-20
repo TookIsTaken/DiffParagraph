@@ -1,0 +1,16 @@
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\DiffParagraph.exe.config
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\obj\Debug\DiffParagraph.csprojResolveAssemblyReference.cache
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\DiffParagraph.exe
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\DiffParagraph.pdb
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\HtmlRenderer.dll
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\PdfSharp.Charting.dll
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\PdfSharp.dll
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\HtmlRenderer.pdb
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\PdfSharp.xml
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\PdfSharp.Charting.xml
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\obj\Debug\DiffParagraph.exe
+C:\Users\bmoye\Documents\GitHub\DiffParagraph\DiffParagraph\obj\Debug\DiffParagraph.pdb
